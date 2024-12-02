@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">📚 I'm learning React.js</p>
+<p align="left">📚 learning React.js</p>
 
 ###
 
