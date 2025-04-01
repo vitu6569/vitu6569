@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">📚 learning React.js</p>
+<p align="left">📚 I'm a Front end & Mobile developer</p>
 
 ###
 
